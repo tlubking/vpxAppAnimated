@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "vpxApp",
+    "name": "vpxApp (Animated Login)",
     "slug": "vpxApp",
     "platforms": [
       "ios",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
